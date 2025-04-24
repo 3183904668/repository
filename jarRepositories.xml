@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
@@ -18,3 +19,8 @@
     </remote-repository>
   </component>
 </project>
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:d051c92d48a5cab8953cf317978e5babca6f8ef890c06f2407542f077ffc4638
+size 1113
+>>>>>>> 5c0c02159b2a15447aa8e680394160ca483d736c

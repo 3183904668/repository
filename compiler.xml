@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
@@ -17,3 +18,8 @@
     </option>
   </component>
 </project>
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:23cd3d445c4da342d3189392f221f50f22811cac7dfe242d80556b0c17af6b38
+size 758
+>>>>>>> 5c0c02159b2a15447aa8e680394160ca483d736c

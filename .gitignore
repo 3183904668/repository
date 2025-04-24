@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Default ignored files
 /shelf/
 /workspace.xml
@@ -6,3 +7,8 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bfdece3645ed8ed356030f22cc2004dc3f401ff060ac3d24de811c3bcd82e16
+size 184
+>>>>>>> 5c0c02159b2a15447aa8e680394160ca483d736c

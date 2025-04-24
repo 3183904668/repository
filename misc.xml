@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
@@ -12,3 +13,8 @@
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:e87cb277f8e686ef19d27351e9088942f73f7bf68f64d8f9149135be85829147
+size 572
+>>>>>>> 5c0c02159b2a15447aa8e680394160ca483d736c

@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/springboot/src/main/java" charset="UTF-8" />
   </component>
 </project>
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:0284e698b7a3b437d186b52e44d1e8b43cc67f6ea2140f258074def91e77e49a
+size 224
+>>>>>>> 5c0c02159b2a15447aa8e680394160ca483d736c

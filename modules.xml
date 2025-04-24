@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
@@ -6,3 +7,8 @@
     </modules>
   </component>
 </project>
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:f025983ebc4cfe14613f3606419adb2a9d8b6007636132d70112376ad96c7476
+size 289
+>>>>>>> 5c0c02159b2a15447aa8e680394160ca483d736c
